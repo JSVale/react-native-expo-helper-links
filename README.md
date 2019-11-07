@@ -13,3 +13,7 @@ Rocket Seat: https://rocketseat.com.br/
 Plano para a conta de desenvolvedor da Apple: https://developer.apple.com/pt/support/compare-memberships/
 
 Guidelines para desenvolver um app para iOS: https://developer.apple.com/app-store/review/guidelines/
+
+## Sobre o curso de **Desenvolvendo um App em Dois Dias** ministrado na Fatec de Cruzeiro
+
+Slides do curso: https://github.com/JSVale/react-native-expo-helper-links/raw/master/Apresenta%C3%A7%C3%A3o%20React%20Native.pptx
