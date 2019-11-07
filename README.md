@@ -17,3 +17,9 @@ Guidelines para desenvolver um app para iOS: https://developer.apple.com/app-sto
 ## Sobre o curso de **Desenvolvendo um App em Dois Dias** ministrado na Fatec de Cruzeiro
 
 Slides do curso: https://github.com/JSVale/react-native-expo-helper-links/raw/master/Apresenta%C3%A7%C3%A3o%20React%20Native.pptx
+
+## GISTs
+
+API Mock: https://gist.github.com/LucasMallmann/5b8bd00d6015b10f3115df54a4d962de
+
+Cores do APP: https://gist.github.com/LucasMallmann/36f69e2c0638356730b6171aea5ddc56
